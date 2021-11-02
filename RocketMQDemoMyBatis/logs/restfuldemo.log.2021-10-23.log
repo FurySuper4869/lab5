@@ -1,0 +1,3 @@
+2021-10-23 00:16:30.009 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Starting DemoApplication using Java 16.0.1 on DESKTOP-600G03K with PID 16424 (C:\Users\向往快乐的王子\Desktop\lab\RestFulDemoMyBatis\target\classes started by 向往快乐的王子 in C:\Users\向往快乐的王子\Desktop\lab\RestFulDemoMyBatis)
+2021-10-23 00:16:30.011 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - No active profile set, falling back to default profiles: default
+2021-10-23 00:16:35.710 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Started DemoApplication in 6.038 seconds (JVM running for 6.888)
