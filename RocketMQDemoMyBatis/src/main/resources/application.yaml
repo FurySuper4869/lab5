@@ -5,13 +5,13 @@ management:
         include: "*"
 
 server:
-  port: 8080
+  port: 8081
 
 spring:
   boot:
     admin:
       client:
-        url: http://localhost:8081
+        url: http://localhost:8082
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://172.16.1.87:3306/JAVAEE?serverTimezone=GMT%2B8
